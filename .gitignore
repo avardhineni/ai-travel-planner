@@ -1,0 +1,4 @@
+ashwani-travel-agent/
+.env
+__pycache__/
+*.pyc
